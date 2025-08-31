@@ -1,0 +1,6 @@
+mein-event/
+│
+├── index.html        (Startseite)
+├── programm.html     (Programm des Tages)
+├── ok.html           (OK-Seite)
+└── style.css         (Design)
